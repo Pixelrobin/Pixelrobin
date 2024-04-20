@@ -1,7 +1,6 @@
 ### Hello :v:
 
-Hope you're doing well! Here are some common links you might be looking for:
+I'm a Web Developer and Designer based in Bellingham, WA. Currently I'm working as a nomad from Rio de Janeiro.
 
-- [My Website](michaelsavchuk.com) (Pretty barebones for now...)
-- [My Resume](https://www.michaelsavchuk.com/michael-savchuk-resume.pdf)
+- [My Website](https://michaelsavchuk.com)
 - [My LinkedIn](https://www.linkedin.com/in/michaelsavchuk/)
